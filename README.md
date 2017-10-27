@@ -1,0 +1,2 @@
+# ZhiXiongYouDaoNoteInstallationPackage
+一个仿有道云笔记的安装包，使用Inno Setup制作
