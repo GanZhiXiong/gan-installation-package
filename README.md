@@ -31,13 +31,16 @@ Inno Setup用Delphi写成，其官方网站同时也提供源程序免费下载�
 ## 捐助开发者
 有钱捧个钱场，没钱捧个人场，谢谢各位。
 
-![](http://note.youdao.com/yws/api/personal/file/D0DE0672DE164D96895E968CE58F3A27?method=download&shareKey=301c4fc04785a383851db4d4b98bcd26)
-![](http://note.youdao.com/yws/api/personal/file/92AD2FECBD02427797826AE52DE38D86?method=download&shareKey=56f51da0742c8df78048edc97a18f95a)
+![](https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/Pay/AlipayQRCode.jpg)
+![](https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/Pay/weixinpay_qrcode.jpg)
 
 ## 感激
-感谢CSDN coder：harouncloud 提供的DEMO
+感谢CSDN coder：harouncloud 提供的DEMO  
+
 harouncloud的博客：http://my.csdn.net/harouncloud
+
 该脚本是在harouncloud提供的有道云笔记的基础上编写的
+
 解决了harouncloud遗留的bug
 
 ## 关于作者
