@@ -1,7 +1,17 @@
 # ZhiXiongYouDaoNoteInstallationPackage
 一个仿有道云笔记的安装包，使用Inno Setup制作
 
-## 安装界面效果图
+## 安装界面效果图 
+* 案例效果图  
+![Image load failure](https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/4.png)  
+
+![Image load failure](https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/5.png)  
+
+![Image load failure](https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/6.png)  
+
+![Image load failure](https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/7.png)
+
+* 仿有道词典安装包效果图  
 ![Image load failure](https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/0.png)
 
 ![Image load failure](https://github.com/GanZhiXiong/ZhiXiongYouDaoNoteInstallationPackage/blob/master/images/1.png)
